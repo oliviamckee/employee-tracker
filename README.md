@@ -6,6 +6,7 @@
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Walkthrough](#walkthrough)
 - [License](#license)
 - [Questions](#questions)
 
@@ -13,6 +14,9 @@
  
 
 ## Usage 
+
+
+## Walkthrough
 
 
 ## License
