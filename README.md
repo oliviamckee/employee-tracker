@@ -6,6 +6,7 @@ I created this application using NodeJS, the inquirer and cTable packages, and a
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Walkthrough](#walkthrough)
 - [License](#license)
 - [Questions](#questions)
 
@@ -14,6 +15,9 @@ Navigate to the github directory, download all relevent files, as well as NodeJS
 
 ## Usage 
 Start the application by typing "node app" into the command line. My walkthrough was done using the seed data from my seeds file, so yours may look different. 
+
+## Walkthrough
+[Google Drive video](https://drive.google.com/file/d/1KKm8L3ejgSUMKKNDQhQfr2akmnwEif2h/view)
 
 ## License
 This application is covered under the MIT License. 
