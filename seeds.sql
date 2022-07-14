@@ -38,11 +38,17 @@ VALUES
     ('lawyer', 500000, 1),
     ('veterinarian', 100000, 2),
     ('technician', 50000, 2),
-    ('manager', 80000, 3);
+    ('manager', 80000, 3),
+    ('technician assistant', 30000, 2),
+    ('social worker', 80000, 3);
 
 INSERT INTO employee
     (first_name, last_name, role_id, manager_id)
 VALUES
-    ('Gabby', 'Smith', 3, NULL),
+    ('Gabby', 'Smith', 4, NULL),
     ('Olivia', 'McKee', 2, 1),
-    ('Christine', 'Johnson', 1, NULL);
+    ('Christine', 'Johnson', 3, 1),
+    ('Irene', 'Manning', 1, NULL),
+    ('Elsa', 'Sumers', 6, 1),
+    ('Julie', 'Ruth', 5, 1),
+    ('Henri', 'Rousseau', 3, 1);
